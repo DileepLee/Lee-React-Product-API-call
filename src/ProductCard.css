@@ -1,0 +1,32 @@
+.pt{
+    color:black;
+    font-family: sans-serif;
+    font-weight: 600;
+
+}
+.pt{
+    color: rgb(181, 79, 19);
+    padding-left: 10px;
+}
+.pp{
+    color: rgb(226, 144, 43);
+    padding-left: 10px;
+
+}
+.pr{
+    padding-left: 10px;
+
+}
+.card{
+    background-color: rgb(244, 232, 218);
+
+}
+img{
+    background-color: aliceblue;
+    border-radius: 10px 10px 0px 0px;
+}
+.details-card{
+    background-color: rgb(30, 35, 35);
+    height: 100%;
+    border-radius: 10px;
+}
